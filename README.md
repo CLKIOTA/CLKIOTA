@@ -53,6 +53,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CLKIOTA/CLKIOTA/output/snake.svg" alt="Snake animation" />
 
 ###
